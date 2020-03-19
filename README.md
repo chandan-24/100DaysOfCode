@@ -4,6 +4,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 5: March 18, Wednesday
+
+**Today's Progress**:
+* Learned about Dockerfile, What are layers?,How containers are shipped from a Docker image, Volumes- persisting data in a container and some best practices of writing a Dockerfile. Also little bit about how your containers can be exploited.
+
+**Thoughts**: 
+    Watching the presentation from previous conference like DockerCon conference, helps in learning the basic idea behind evolution of some technology. These industry expert know what we people has no or poor understanding of. Watched to presentation today about containers(links below), learn new concepts and busted some common myth.
+
+**Resources**:
+*[Containers for Beginners](https://www.youtube.com/watch?v=6gJs0F8V3tM&feature=youtu.be)
+*[What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM&feature=youtu.be)
+
 ### Day 4: March 17, Tuesday
 
 **Today's Progress**:
@@ -13,13 +25,10 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
     Nothing much. Have not much time for docker so just sloved some coding problem. From now on, will dedicate more time into this.
 
 **Link(s) to work**:
-* [Array algorithms which I practiced](https://github.com/chandan-24/coding-practice/tree/master/array)
+* [Array Problems which I practiced](https://github.com/chandan-24/coding-practice/tree/master/array)
 
 **Resources**:
-* [Array Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
-
-**Plan for Tomorrow**:
-* Continue learning Docker and Array algorithms.
+* [Array Problem - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
 
 ### Day 3: March 16, Monday
 
@@ -38,46 +47,36 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 - [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8&t=37s)s
 - [Whats under the hood - Namespaces, Cgroups and OverlayFS](https://www.youtube.com/watch?v=2ZdJ_3sBr6A)
 
-**Plan for Tomorrow**:
-* Continue learning Docker and Array algorithms.
-
 ### Day 2: March 15, Sunday
 
 **Today's Progress**:
 * Tried solving the installation issue of ubuntu in virtal box.
-* Practiced Array algorithms from GeeksForGeeks.
+* Practiced Array Problems from GeeksForGeeks.
 * Continue learning Docker.
 
 **Thoughts**: 
-    Practiced some array algorithms from geeksforgeeks. Tried resolving docker installation issue, later came to know it can only be installed in 64-bit machine. Didn't able to figure out what causing the virtual box to not able to connect to internet, still unsolved.
+    Practiced some array Problems from geeksforgeeks. Tried resolving docker installation issue, later came to know it can only be installed in 64-bit machine. Didn't able to figure out what causing the virtual box to not able to connect to internet, still unsolved.
 
 **Link(s) to work**:
-* [Array algorithms which I practiced](https://github.com/chandan-24/coding-practice/tree/master/array)
+* [Array Problems which I practiced](https://github.com/chandan-24/coding-practice/tree/master/array)
 
 **Resources**:
-* [Array Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
-
-**Plan for Tomorrow**:
-* Continue learning Docker and Array algorithms.
-
+* [Array Problem - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
 
 ### Day 1: March 14, Saturday
 
 **Plans for Today**:
-* Learn/Slove some Array algorithms from GeeksForGeeks.
+* Learn/Slove some Array Problems from GeeksForGeeks.
 * Start learning.
 
 **Today's Progress**:
 1. Started the challenge with this podcast - Bits, Binary, and Bytes by codenewbie.
 2. Started learning Docker, learnt docker terminology, Setup a linux virtual box and get docker installed on it.
-3. Learnt array rotation algorithm from geeksforgeeks.
+3. Learnt array rotation Problem from geeksforgeeks.
 
 **Thoughts**:
-    Its been a though day. Stuck during the installation process of docker in Ubuntu VM box. Still the issue exist, will try to fix it tomorrow. I very well achieved Day 1, will continue learning Docker and Array algorithms.
+    Its been a though day. Stuck during the installation process of docker in Ubuntu VM box. Still the issue exist, will try to fix it tomorrow. I very well achieved Day 1, will continue learning Docker and Array Problems.
 
 **Resources**:
 * [Bits, Binary, and Bytes](https://www.codenewbie.org/basecs/3)
-* [Array Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
-
-**Plan for Tomorrow**:
-* Continue learning Docker and Array algorithms.
+* [Array Problem - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
