@@ -10,9 +10,11 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 * Learned what is a Docker file and its different instructions like FROM, RUN, COPY etc. Also learned about how each instruction create a layer on top of prev. layer which are then combined by Union FileSystem - storage drivers of Docker-engine to form a container.
 
 **Thoughts**: 
-    Watching the presentation from previous conference like DockerCon conference, helps in learning the basic idea behind evolution of some technology. These industry expert know what we people has no or poor understanding of. Watched to presentation today about containers(links below), learn new concepts and busted some common myth.
+    Hhhhh, Learned much of the basic, from now on will dive into some hands-on.
 
 **Resources**:
+* [Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5)
+* [Part 2: A Delicious Dozen Docker Terms You Need to Know](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)`
 
 ### Day 5: March 18, Wednesday
 
