@@ -13,8 +13,8 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
     Watching the presentation from previous conference like DockerCon conference, helps in learning the basic idea behind evolution of some technology. These industry expert know what we people has no or poor understanding of. Watched to presentation today about containers(links below), learn new concepts and busted some common myth.
 
 **Resources**:
-*[Containers for Beginners](https://www.youtube.com/watch?v=6gJs0F8V3tM&feature=youtu.be)
-*[What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM&feature=youtu.be)
+* [Containers for Beginners](https://www.youtube.com/watch?v=6gJs0F8V3tM&feature=youtu.be)
+* [What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM&feature=youtu.be)
 
 ### Day 4: March 17, Tuesday
 
