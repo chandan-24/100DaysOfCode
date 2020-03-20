@@ -4,6 +4,16 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 7: March 20, Friday
+
+**Today's Progress**:
+* Today I launched few containers using Docker and executed some docker commands like RUN, CREATE, START, EXEC, STOP, KILL, PS etc.
+
+**Thoughts**: 
+    After 6 days of dig and reading, finally done some hands on #docker #containers. Excited for more learning.
+**Resources**:
+* [Play with Docker](https://labs.play-with-docker.com/) used this platform to do the hands on.
+
 ### Day 6: March 19, Thrusday
 
 **Today's Progress**:
@@ -14,7 +24,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Resources**:
 * [Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5)
-* [Part 2: A Delicious Dozen Docker Terms You Need to Know](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)`
+* [Part 2: A Delicious Dozen Docker Terms You Need to Know](https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8)
 
 ### Day 5: March 18, Wednesday
 
