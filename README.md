@@ -4,6 +4,21 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 8: March 21, Saturday
+
+**Today's Progress**:
+* Learned about Dockerfile and how to use it to create an image.
+* Writen a Dockerfile to create a redis-server image and then created containers out of it.
+* Writen a Dockerfile to create an image with nodeJs preinstalled and then created containers out of it.
+* Docker Image is a FS snapshot of a container, created a image using this method also.
+
+**Link to work**:
+* [Dockerfile to create redis-server image](https://github.com/chandan-24/learning-docker/tree/master/create-redis-server-image)
+* [Dockerfile to create an image with nodeJs preinstalled](https://github.com/chandan-24/learning-docker/tree/master/create-nodejs-image)
+
+**Resources**:
+* [Play with Docker](https://labs.play-with-docker.com/) used this platform to do the hands on.
+
 ### Day 7: March 20, Friday
 
 **Today's Progress**:
@@ -11,6 +26,10 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Thoughts**: 
     After 6 days of dig and reading, finally done some hands on #docker #containers. Excited for more learning.
+
+**Link to work**:
+* [Commands used to create and manage containers](https://github.com/chandan-24/learning-docker/blob/master/dockerCommands.sh)
+
 **Resources**:
 * [Play with Docker](https://labs.play-with-docker.com/) used this platform to do the hands on.
 
