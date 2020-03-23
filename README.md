@@ -4,6 +4,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 9: March 22, Sunday
+
+**Today's Progress**:
+* Written a simple nodejs web app to host it inside a container.
+* written a Dockerfile that will host this webApp.
+
+**Link to work**:
+* [A containerised nodejs web app](https://github.com/chandan-24/learning-docker/tree/master/a-simple-web-app)
+
+**Resources**:
+* [Play with Docker](https://labs.play-with-docker.com/) used this platform to do the hands on.
+
 ### Day 8: March 21, Saturday
 
 **Today's Progress**:
