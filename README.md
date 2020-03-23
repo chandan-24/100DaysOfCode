@@ -4,6 +4,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 10: March 23, Monday
+
+**Today's Progress**:
+* Learned about docker-compose and various commands it offers.
+* Learned to create and start various containers using docker-compose.
+
+**Thoughts**:
+    Since pasts 2 days the things I'm getting more comfortable with docker. Also was not able to do the hands on, will set up the enviornment and host a webapp using docker-compose.
+
 ### Day 9: March 22, Sunday
 
 **Today's Progress**:
