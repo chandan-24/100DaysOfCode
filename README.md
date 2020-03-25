@@ -4,6 +4,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 11: March 24, Tuesday
+
+**Today's Progress**:
+* **Done nothing**
+
+**Thoughts**:
+    My bithday was on this day, not have enough time for the hands on as planned the day before but will do it 
+    definitely the next day.
+
 ### Day 10: March 23, Monday
 
 **Today's Progress**:
