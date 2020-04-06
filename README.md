@@ -4,6 +4,17 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 23: April 5, Sunday
+
+**Today's Progress**:
+* Learned about how projects are actually deployed **(Development, Testing and Production environment)** and used.
+* Learned about and used Docker volumes.
+* A step towards CI/CD, get to know about Travis CI.
+
+**Thoughts**:
+* Just Building and deploying dummy apps is not helping much. I'm little good at backend development but not at forntend, so thinking to start learning react from the next day.
+* Then will build a full featured web app and will use docker for deployment, this will be more efficient way to continue. **Taking a pause here with docker**.
+
 ### Day 13-22: March 26, Thrusday - April 4, Saturday
 
 **Progress**: 
