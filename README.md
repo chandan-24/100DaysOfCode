@@ -7,21 +7,26 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 ### Day 23: April 5, Sunday
 
 **Today's Progress**:
-* Learned about how projects are actually deployed **(Development, Testing and Production environment)** and used.
-* Learned about and used Docker volumes.
-* A step towards CI/CD, get to know about Travis CI.
+* A step towards CI/CD, get to know about Travis CI and also about aws Elastic Beanstalk.
+* Learned how Github, Travis CI and Elastic beanstalk can be combined to get a production grade software running.
 
 **Thoughts**:
 * Just Building and deploying dummy apps is not helping much. I'm little good at backend development but not at forntend, so thinking to start learning react from the next day.
 * Then will build a full featured web app and will use docker for deployment, this will be more efficient way to continue. **Taking a pause here with docker**.
 
-### Day 13-22: March 26, Thrusday - April 4, Saturday
+### Day 14-22: March 27, Friday - April 4, Saturday
 
 **Progress**: 
 * **Done Nothing**
 
 **Thoughts**: 
-A long pause from the day to day routine, A slight change in my day schedule cost me 10 days of **zero learning**. But now Things are coming on track.
+A long pause from the day to day routine, A slight change in my day schedule cost me 9 days of **zero learning**. But now Things are coming on track.
+
+### Day 13: March 26, Thrusday
+
+**Today's Progress**:
+* Learned about how projects are actually deployed **(Development, Testing and Production environment)** and used.
+* Learned about and used Docker volumes.
 
 ### Day 12: March 25, Wednesday
 
