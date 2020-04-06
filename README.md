@@ -4,6 +4,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 13-22: March 26, Thrusday - April 4, Saturday
+
+**Progress**: 
+* **Done Nothing**
+
+**Thoughts**: 
+A long pause from the day to day routine, A slight change in my day schedule cost me 10 days of **zero learning**. But now Things are coming on track.
+
 ### Day 12: March 25, Wednesday
 
 **Today's Progress**:
