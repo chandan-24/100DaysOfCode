@@ -4,6 +4,12 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 25: April 7, Monday
+
+**Today's Progress**:
+* Learned about jsx and how jsx is different from html.
+* Referencing js variable inside jsx.
+
 ### Day 24: April 6, Monday
 
 **Today's Progress**:
