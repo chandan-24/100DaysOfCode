@@ -4,6 +4,13 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 24: April 6, Monday
+
+**Today's Progress**:
+* Started learning react.
+* react component and some basics.
+* Used create-react-app module to create a basic react project.
+
 ### Day 23: April 5, Sunday
 
 **Today's Progress**:
