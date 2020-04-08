@@ -4,6 +4,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 # My 100DayOfCode Challenge log
 ## Start: 14 March 2020
 
+### Day 26: April 8, Tuesday
+
+**Today's Progress**:
+* Learned more about creating components and using props.
+* Watched a presentation on 'React: Rethinking best practices' from **JSConf EU**
+
+**Resourses**
+* [React: Rethinking best practices -- JSConf EU](https://www.youtube.com/watch?v=x7cQ3mrcKaY&feature=youtu.be)
+
 ### Day 25: April 7, Monday
 
 **Today's Progress**:
