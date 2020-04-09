@@ -4,19 +4,25 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## My 100DayOfCode Challenge log
 
-## Start: 14 March 2020
+## Started: 14 March 2020
 
 ## Learning track
 
-### Day 1 - 23
+**Day 1 - 23**: Containerization, [Docker](https://www.docker.com/)
 
-Containerization, [Docker](https://www.docker.com/)
+**Day 24 - current**: [ReactJs](https://reactjs.org/)
 
-### Day 24 - current
+### Day 27: April 9, Thrusday
 
-[ReactJs](https://reactjs.org/)
+**Today's Progress**:
 
-### Day 26: April 8, Tuesday
+* Started creating a project that will help understand components and using props.
+
+**Link to work**:
+
+* [Single page Blog post webapp](https://github.com/chandan-24/learning-ReactJS/tree/master/learning-components)
+
+### Day 26: April 8, Wednesday
 
 **Today's Progress**:
 
@@ -27,7 +33,7 @@ Containerization, [Docker](https://www.docker.com/)
 
 * [React: Rethinking best practices -- JSConf EU](https://www.youtube.com/watch?v=x7cQ3mrcKaY&feature=youtu.be)
 
-### Day 25: April 7, Monday
+### Day 25: April 7, Tuesday
 
 **Today's Progress**:
 
