@@ -12,6 +12,13 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 29: April 11, Saturday
+
+**Today's Progress**:
+
+* Started learning about class based components, why we need it?
+* Also learned about states and components lifecycle methods.
+
 ### Day 28: April 10, Friday
 
 **Today's Progress**:
