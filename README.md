@@ -12,6 +12,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 28: April 10, Friday
+
+**Today's Progress**:
+
+* Completed the project that I started last day, I used functional components to build this.
+
+**Thoughts** Its all about investing time and you will learn something or other. The investment never goes in vain. Completed my first ever react project though very simple but learned a lot and feeling very comfortable in it.
+
+**Link to work**:
+
+* [Single page Blog post webapp](https://github.com/chandan-24/learning-ReactJS/tree/master/learning-components)
+
 ### Day 27: April 9, Thrusday
 
 **Today's Progress**:
