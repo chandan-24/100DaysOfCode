@@ -12,6 +12,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 31: April 13, Monday
+
+**Today's Progress**:
+
+* Learned about creating a form in react and how to pass on the input to parent component.
+* Some facts about **this keyword** of JS.
+* Controlled vs Uncontrolled components.
+
 ### Day 30: April 12, Sunday
 
 **Today's Progress**:
