@@ -12,6 +12,17 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 30: April 12, Sunday
+
+**Today's Progress**:
+
+* Completed a project that has been built completely using class based components(learned about it last day).
+* This app greets about the season at your location, navigator.geolocation api is used to fetch the location.
+
+**Link to work**:
+
+* [Season Display](https://github.com/chandan-24/learning-ReactJS/tree/master/season-greeting)
+
 ### Day 29: April 11, Saturday
 
 **Today's Progress**:
