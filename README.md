@@ -12,6 +12,13 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 32: April 14, Tuesday
+
+**Today's Progress**:
+
+* Learned about making API request in react using Axios.
+* Also about CSS grid and  react ref.
+
 ### Day 31: April 13, Monday
 
 **Today's Progress**:
