@@ -12,6 +12,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 34-35: April 16, Thrusday - April 17, Friday
+
+**Today's Progress**:
+
+* Completed image search webApp which will fetch images from [unsplash](https://unsplash.com/) api.
+* Learn about CCS grid and implemented it on this project to display the fetched images in well structured manner.
+* Pagination will be added in future.
+
+**Link to work**:
+
+* [Image Search Engine](https://github.com/chandan-24/learning-ReactJS/tree/master/image-search-app)
+
 ### Day 33: April 15, Wednesday
 
 **Today's Progress**:
@@ -20,7 +32,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Link to work**:
 
-* [Image Search Engine](https://github.com/chandan-24/learning-ReactJS/tree/master/search-engine)
+* [Image Search Engine](https://github.com/chandan-24/learning-ReactJS/tree/master/image-search-app)
 
 **Resouse**:
 
