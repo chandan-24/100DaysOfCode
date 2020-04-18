@@ -12,6 +12,12 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 36: April 18, Thrusday
+
+**Today's Progress**:
+
+* Started working on a react video search-engine project which will fetch video from [YouTube](https://developers.google.com/youtube/v3/docs/) api.
+
 ### Day 34-35: April 16, Thrusday - April 17, Friday
 
 **Today's Progress**:
