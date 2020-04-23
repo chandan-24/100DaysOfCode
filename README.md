@@ -12,6 +12,12 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 38: April 20, Monday
+
+**Today's Progress**:
+
+* Started exploring about Redux.
+
 ### Day 37: April 19, Sunday
 
 **Today's Progress**:
