@@ -12,6 +12,12 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 39-40: April 21, Tuesday - April 22, Wednesday
+
+**Progress**:
+
+* **Taken Day off**
+
 ### Day 38: April 20, Monday
 
 **Today's Progress**:
