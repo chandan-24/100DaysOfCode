@@ -12,6 +12,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/)
 
+### Day 42-44: April 24, Friday - April 26, Sunday
+
+**Today's Progress**:
+
+* Learned to wire up react with redux.
+
+**Thought**
+A bit slow in the learning process, but now will focus on hands on from the next day.
+
 ### Day 41: April 23, Thrusday
 
 **Today's Progress**:
