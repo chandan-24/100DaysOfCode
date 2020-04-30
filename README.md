@@ -10,7 +10,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 1 - 23**: Containerization, [Docker](https://www.docker.com/)
 
-**Day 24 - current**: [ReactJs](https://reactjs.org/)
+**Day 24 - current**: [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
+
+### Day 45-46: April 27, Monday - April 28, Tuesday
+
+**Progress**:
+
+* Mostly the days go on handsOn over **react and redux**, built two react webApp that uses **redux** for **data store**.
+
+**Link to work**:
+
+* [Songs list](https://github.com/chandan-24/learning-ReactJS/tree/master/react-redux);
+
+* [Blog posts list](https://github.com/chandan-24/learning-ReactJS/tree/master/list-blogs);
 
 ### Day 42-44: April 24, Friday - April 26, Sunday
 
