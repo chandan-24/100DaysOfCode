@@ -12,6 +12,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+### Day 48: April 30, Thrusday
+
+**Today's Progress**:
+
+* Learned about react-router.
+
+### Day 47: April 29, Wednesday
+
+**Today's Progress**:
+
+* Started learning css.
+
 ### Day 45-46: April 27, Monday - April 28, Tuesday
 
 **Progress**:
