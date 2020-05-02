@@ -12,6 +12,21 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+### Day 50: May 2, Saturday
+
+**Today's Progress**:
+
+* Watched video tutorial on CSS.
+* Learned about pseudo-classes, transition, diff b/w inline, block and inline-block.
+
+### Day 49: May 1, Friday
+
+**Today's Progress**:
+
+* Practiced css-basic from [freecodecamp.org](https://www.freecodecamp.org/).
+
+* Watched some video tutorial on CSS.
+
 ### Day 48: April 30, Thrusday
 
 **Today's Progress**:
