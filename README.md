@@ -10,7 +10,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 1 - 23**: Containerization, [Docker](https://www.docker.com/)
 
-**Day 24 - current**: [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
+**Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
+
+### Day 51: May 3, Sunday
+
+**Today's Progress**:
+
+* Watched css video tutorial from udemy.
+* Built a landing page using html and css though not responsive.
+
+**Link to work**:
+
+* [Omnifood](https://github.com/chandan-24/learning-ReactJS/tree/master/css-journey/omnifood) - fake company name
 
 ### Day 50: May 2, Saturday
 
