@@ -12,6 +12,29 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+### Dat 54-58: May 6, Wednesday - May 10, Sunday
+
+**Progress**:
+
+* Cloned [coinbase](https://www.coinbase.com/) landing page for learning css. Used React to build the website.
+
+**Link to work**:
+
+* [coinbase landing page](https://github.com/chandan-24/learning-ReactJS/tree/master/coinbase-landing-page)
+
+### Dat 52-53: May 4-5
+
+**Today's Progress**:
+
+* Learned about different CSS properties and used them into building a responsive website of a food company.
+
+**Thoughts**
+Always avoided jumping into front-end but finally got my hands dirty with this tool. Since the past 5 days using this tool and it feels pretty cool styling elements.
+
+**Link to work**:
+
+* [Omnifood](https://github.com/chandan-24/learning-ReactJS/tree/master/css-journey/omnifood)
+
 ### Day 51: May 3, Sunday
 
 **Today's Progress**:
@@ -21,7 +44,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Link to work**:
 
-* [Omnifood](https://github.com/chandan-24/learning-ReactJS/tree/master/css-journey/omnifood) - fake company name
+* [Omnifood](https://github.com/chandan-24/learning-ReactJS/tree/master/css-journey/omnifood)
 
 ### Day 50: May 2, Saturday
 
