@@ -12,6 +12,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+### Dat 59-60: May 11, Monday - May 12, Tuesday
+
+**Progress**:
+
+* **Done Nothing**
+
+**Thoughts**:
+In last few days laid focus on css, pround that I build a website using React and used css for styling. From now on will continue learning redux and other stuffs.
+
 ### Dat 54-58: May 6, Wednesday - May 10, Sunday
 
 **Progress**:
