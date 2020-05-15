@@ -12,6 +12,13 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+### Dat 61-63: May 13, Wednesday - May 15, Friday
+
+**Progress**:
+
+* Revised redux concepts and read Apache Kafka documentation.
+* Revised redux middlewares, reducers and thunks.
+
 ### Dat 59-60: May 11, Monday - May 12, Tuesday
 
 **Progress**:
