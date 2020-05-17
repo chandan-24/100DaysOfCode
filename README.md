@@ -12,6 +12,20 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+### Dat 64-65: May 16, Saturday - May 17, Sunday
+
+**Progress**:
+
+* Revised redux router.
+* Learned about google OAuth based authentication for webapp.
+* learned about redux-form.
+* Get to know about Single-page vs multiple-page application.
+
+**Resouse**:
+
+* [Single-page application vs multiple-page application](https://t.co/CaiL38MwvR?amp=1)
+* [Modern React with Redux](https://www.udemy.com/course/react-redux/) - udemy course
+
 ### Dat 61-63: May 13, Wednesday - May 15, Friday
 
 **Progress**:
