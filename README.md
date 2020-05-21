@@ -12,6 +12,25 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
+**Day 61 - 69**: [Apache Kafka](https://kafka.apache.org/documentation/), [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
+
+### Dat 66-69: May 18, Monday - May 21, Thrusday
+
+**Progress**:
+
+* Watched more tutorial on react router and how to manage state using redux.
+* Learning about apache Kafka for the past two days.
+* Written a messaging(producer - consumer) system in Node.js to illustrate message stream processing in kafka using Kafka-node - a Node.js client.
+
+**Thoughts**:
+Learn a lot about react and will move on to building a full stack webApp.
+
+**Resouse**:
+
+* [Modern React with Redux](https://www.udemy.com/course/react-redux/) - udemy course
+* [Apache Kafka](https://kafka.apache.org/documentation/) - documentation
+* [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
+
 ### Dat 64-65: May 16, Saturday - May 17, Sunday
 
 **Progress**:
