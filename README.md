@@ -14,6 +14,27 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 61 - 69**: [Apache Kafka](https://kafka.apache.org/documentation/), [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
 
+### Dat 70-71: May 22, Friday - May 23, Saturday
+
+**Progress**:
+
+* Watched mongoose tutorial from YouTube.
+
+* Learned about authentication and authorization.
+
+* Learned how to authorize Node.js API using JWT.
+
+**Thoughts**:
+Learned about a lots of small tools which are necessary for web based project, Building up the basics for my next project which will be a fullstack webApp.
+
+**Resouse**:
+
+* [What Is JWT and Why Should You Use JWT](https://youtu.be/7Q17ubqLfaM)
+
+* [Node.js API Authentication With JWT](youtu.be/2jqok-WgelI)
+
+* [Authorization (Sessions, Cookies vs JWT)](https://youtu.be/2PPSXonhIck)
+
 ### Dat 66-69: May 18, Monday - May 21, Thrusday
 
 **Progress**:
