@@ -14,7 +14,21 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 61 - 69**: [Apache Kafka](https://kafka.apache.org/documentation/), [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
 
-### Dat 70-71: May 22, Friday - May 23, Saturday
+### Day 71-82: June 2, Tuesday - June 3, Wednesday
+
+**Progress**:
+
+* Rest, Done Nothing.
+
+### Day 72-80: May 24, Sunday - June 1, Monday
+
+**Progress**:
+
+* Built [Harperive](https://github.com/chandan-24/Harperive#readme) - A NodeJs client for [HarperDb](https://harperdb.io/). (Follow the links to learn more.)
+
+* Written [example codes](https://github.com/chandan-24/harperdb-harperive-example#readme) on how to use Harperive in your NodeJs project.
+
+### Day 70-71: May 22, Friday - May 23, Saturday
 
 **Progress**:
 
