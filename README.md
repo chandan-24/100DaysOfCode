@@ -14,7 +14,22 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 61 - 69**: [Apache Kafka](https://kafka.apache.org/documentation/), [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
 
-### Day 71-82: June 2, Tuesday - June 3, Wednesday
+### Day 85-88: June 6, Saturday - June 9, Tuesday
+
+**Progress**:
+
+* Started a project: HarperDB Zapier Integration, almost finished.
+
+**Thoughts**
+It was not that difficult to understand zapier devtool though faced difficulities in grasping few features, Created a complete flow using zapier-platform-cli.
+
+### Day 84: June 5, Friday
+
+**Progress**:
+
+* Started Documenting [Harperive](https://github.com/chandan-24/Harperive#readme)
+
+### Day 81-83: June 2, Tuesday - June 4, Thrusday
 
 **Progress**:
 
