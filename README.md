@@ -10,9 +10,17 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 1 - 23**: Containerization, [Docker](https://www.docker.com/)
 
-**Day 24 - current**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
+**Day 24 - 65**: CSS, [ReactJs](https://reactjs.org/), [Redux](https://redux.js.org/introduction/getting-started)
 
 **Day 61 - 69**: [Apache Kafka](https://kafka.apache.org/documentation/), [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
+
+**Day 70 - current**: Started working with [NodeJs](https://nodejs.org/en/docs/), [Zapier DevTool](https://platform.zapier.com/)
+
+### Day 89: June 10, Wednesday
+
+**Progress**:
+
+* Done minor refactory to harperDb Zapier App and make actions and triggers descriptive.
 
 ### Day 85-88: June 6, Saturday - June 9, Tuesday
 
