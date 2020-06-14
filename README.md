@@ -6,7 +6,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Started: 14 March 2020
 
-## Learning track
+## Learning track - _timeline_
 
 **Day 1 - 23**: Containerization, [Docker](https://www.docker.com/)
 
@@ -16,11 +16,20 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 70 - current**: Started working with [NodeJs](https://nodejs.org/en/docs/), [Zapier DevTool](https://platform.zapier.com/)
 
+### Day 90-94: June 11, Thrusday - June 15, Monday
+
+**Progress**:
+
+* Worked on harperDb Zapier integration App, Done testing, refactoring and add new features to it. Submitted the project also.
+
+**Thoughts**:
+It was incredible learning zapier platform and the wide verity of functoinality it provides. Its agreat plesure to complete this project, also learned new things. Hhhhh, last 6 days of the challenge left. Will spent this time to discover more about nodeJs.
+
 ### Day 89: June 10, Wednesday
 
 **Progress**:
 
-* Done minor refactory to harperDb Zapier App and make actions and triggers descriptive.
+* Done minor refactory to harperDb Zapier App and made actions and triggers descriptive.
 
 ### Day 85-88: June 6, Saturday - June 9, Tuesday
 
