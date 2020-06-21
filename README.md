@@ -14,7 +14,23 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Day 61 - 69**: [Apache Kafka](https://kafka.apache.org/documentation/), [Kafka-node](https://www.npmjs.com/package/kafka-node) - a Node.js client
 
-**Day 70 - current**: Started working with [NodeJs](https://nodejs.org/en/docs/), [Zapier DevTool](https://platform.zapier.com/)
+**Day 70 - 96**: Started working with [NodeJs](https://nodejs.org/en/docs/), [Zapier DevTool](https://platform.zapier.com/)
+
+**Day 97 - 100**: CI-CD, Jenkins
+
+### Day 95-100: June 16, Tuesday - June 21, Sunday
+
+**Progress**:
+
+* Learned about CI-CD and jenkins a CI-CD tool.
+* Documented and published my 1st npm package - Harperive.
+
+**Resourse**:
+
+* [Introduction to Jenkins](https://www.edx.org/course/introduction-to-jenkins) - edx cousre
+
+**Thoughts**:
+The #100DaysOfCode challenge rebooted my skills, started with an aim learn technologies. And its the community that inspired me to strive daily. Learned Docker, ReactJs, Redux, Kafka, Jenkins. Published my 1st npm package. This is just the beginning, miles to go.
 
 ### Day 90-94: June 11, Thrusday - June 15, Monday
 
